@@ -1,0 +1,7 @@
+{
+  "name": "app-plantilla-sidemenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

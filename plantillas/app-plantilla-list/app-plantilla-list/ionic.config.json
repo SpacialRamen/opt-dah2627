@@ -1,0 +1,7 @@
+{
+  "name": "app-plantilla-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
